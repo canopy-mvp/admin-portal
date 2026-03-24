@@ -1,2 +1,10 @@
 # admin-portal
-Internal admin portal for ops team
+
+Internal admin portal
+
+## Getting Started
+
+```bash
+npm install
+npm run build
+```
